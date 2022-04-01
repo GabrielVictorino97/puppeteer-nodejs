@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const readlineSync = require('readline-sync');
 
-console.log("Conversor de moedas 💰");
+console.log("Conversor de moedas 💰💻");
 
 (async() => {
     const browser = await puppeteer.launch();
